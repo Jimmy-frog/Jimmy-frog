@@ -1,4 +1,5 @@
-Hi, I’m Jimmy
+## Hi, I’m Jimmy
+
 I’m interested in python code
 I like the atmosphere of programming, which can make me happy and unable to extricate myself
 
